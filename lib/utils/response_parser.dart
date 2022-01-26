@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:bloc_template/data/api/response_types.dart';
+import 'package:bloc_template/utils/response_types.dart';
 import 'package:http/http.dart';
 
 class ResponseParser<T> {
